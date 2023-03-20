@@ -1,0 +1,1 @@
+A Simple Todo List made with Express, MongoDB and EJS. You can add new Items, checkoff the items, and create new several todo lists by just adding the list name after the domain name in the url and the new list will be created with the new database entry.
